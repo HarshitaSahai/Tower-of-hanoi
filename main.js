@@ -16,6 +16,7 @@ var $reset = $('#reset');
 var $levelButton = $('#levelButton');
 var $arrows = $('.arrow');
 
+
 var game = {
   rings: 4,
   moves: 0,
